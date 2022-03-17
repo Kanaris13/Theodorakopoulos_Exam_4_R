@@ -1,6 +1,6 @@
 # Theodorakopoulos_Exam_4_R
 
-## Συσταδοποίηση
+## Συσταδοποίηση Clustering
 
 *First Github file*
 
